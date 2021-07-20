@@ -1,0 +1,9 @@
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Serv\bin\Debug\Serv.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Serv\bin\Debug\Serv.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Serv\bin\Debug\abst.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Serv\bin\Debug\abst.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Serv\obj\Debug\Serv.csproj.CoreCompileInputs.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Serv\obj\Debug\Serv.csproj.CopyComplete
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Serv\obj\Debug\Serv.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Serv\obj\Debug\Serv.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Serv\obj\Debug\Serv.csproj.AssemblyReference.cache

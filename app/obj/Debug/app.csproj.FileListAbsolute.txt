@@ -1,0 +1,75 @@
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\bin\Debug\app.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\bin\Debug\app.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\bin\Debug\Enti.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\bin\Debug\Repo.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\bin\Debug\Serv.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\bin\Debug\Enti.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\bin\Debug\Repo.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\bin\Debug\Serv.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\obj\Debug\app.csproj.CopyComplete
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\obj\Debug\app.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\obj\Debug\app.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\bin\Debug\context.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\bin\Debug\context.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\app\obj\Debug\app.csproj.AssemblyReference.cache
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\app.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\app.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Enti.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Repo.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Serv.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\context.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Enti.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Repo.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Serv.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\context.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.csprojAssemblyReference.cache
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.csproj.CopyComplete
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\app.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\app.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Enti.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Repo.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Serv.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\context.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Enti.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Repo.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Serv.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\context.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.csproj.CopyComplete
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\app.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\app.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Enti.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Repo.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Serv.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\context.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Enti.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Repo.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\Serv.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\bin\Debug\context.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.csprojAssemblyReference.cache
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.csproj.CopyComplete
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\app\obj\Debug\app.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\bin\Debug\app.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\bin\Debug\app.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\bin\Debug\Enti.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\bin\Debug\Repo.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\bin\Debug\Serv.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\bin\Debug\context.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\bin\Debug\Enti.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\bin\Debug\Repo.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\bin\Debug\Serv.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\bin\Debug\context.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\obj\Debug\app.csproj.CopyComplete
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\obj\Debug\app.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\app\obj\Debug\app.pdb

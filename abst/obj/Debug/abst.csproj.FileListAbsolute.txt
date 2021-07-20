@@ -1,0 +1,6 @@
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\abst\bin\Debug\abst.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\abst\bin\Debug\abst.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\abst\obj\Debug\abst.csproj.CoreCompileInputs.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\abst\obj\Debug\abst.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\abst\obj\Debug\abst.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\abst\obj\Debug\abst.csproj.AssemblyReference.cache

@@ -1,0 +1,27 @@
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Enti\bin\Debug\Enti.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Enti\bin\Debug\Enti.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Enti\bin\Debug\abst.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Enti\bin\Debug\abst.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Enti\obj\Debug\Enti.csproj.CoreCompileInputs.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Enti\obj\Debug\Enti.csproj.CopyComplete
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Enti\obj\Debug\Enti.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Enti\obj\Debug\Enti.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\Enti\obj\Debug\Enti.csproj.AssemblyReference.cache
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\Enti\bin\Debug\Enti.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\Enti\bin\Debug\Enti.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\Enti\bin\Debug\abst.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\Enti\bin\Debug\abst.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\Enti\obj\Debug\Enti.csprojAssemblyReference.cache
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\Enti\obj\Debug\Enti.csproj.CoreCompileInputs.cache
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\Enti\obj\Debug\Enti.csproj.CopyComplete
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\Enti\obj\Debug\Enti.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\Enti\obj\Debug\Enti.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\Enti\bin\Debug\Enti.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\Enti\bin\Debug\Enti.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\Enti\bin\Debug\abst.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\Enti\bin\Debug\abst.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\Enti\obj\Debug\Enti.csprojAssemblyReference.cache
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\Enti\obj\Debug\Enti.csproj.CoreCompileInputs.cache
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\Enti\obj\Debug\Enti.csproj.CopyComplete
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\Enti\obj\Debug\Enti.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\Enti\obj\Debug\Enti.pdb

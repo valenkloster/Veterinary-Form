@@ -1,0 +1,145 @@
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\EjemploCapa.exe.config
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\EjemploCapa.exe
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\EjemploCapa.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\app.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\Enti.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\Serv.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\app.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\Enti.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\Serv.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\obj\Debug\EjemploCapa.Properties.Resources.resources
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\obj\Debug\EjemploCapa.csproj.GenerateResource.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\obj\Debug\EjemploCapa.csproj.CoreCompileInputs.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\obj\Debug\EjemploCapa.csproj.CopyComplete
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\obj\Debug\EjemploCapa.exe
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\obj\Debug\EjemploCapa.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\Repo.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\Repo.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\context.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\bin\Debug\context.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\obj\Debug\EjemploCapa.csproj.AssemblyReference.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\obj\Debug\EjemploCapa.frmRol.resources
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\obj\Debug\EjemploCapa.frmPrincipal.resources
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 13\ejemplo\EjemploCapa\obj\Debug\EjemploCapa.frmRolRegistro.resources
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\EjemploCapa.exe.config
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\EjemploCapa.exe
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\EjemploCapa.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\app.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Enti.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Serv.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Repo.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\context.dll
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\app.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Enti.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Serv.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Repo.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\context.pdb
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csprojAssemblyReference.cache
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.frmPrincipal.resources
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.frmRolRegistro.resources
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.IniciarSesion.resources
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ListarServicios.resources
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.Properties.Resources.resources
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.Registrarse.resources
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.Veterinaria.resources
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csproj.GenerateResource.cache
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csproj.CoreCompileInputs.cache
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csproj.CopyComplete
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.exe
+D:\Valentina\Descargas\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\EjemploCapa.exe.config
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\EjemploCapa.exe
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\EjemploCapa.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\app.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Enti.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Serv.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Repo.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\context.dll
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\app.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Enti.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Serv.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Repo.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\context.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csprojAssemblyReference.cache
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.IniciarSesion.resources
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ListarServicios.resources
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.Properties.Resources.resources
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.Registrarse.resources
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.Veterinaria.resources
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csproj.GenerateResource.cache
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csproj.CoreCompileInputs.cache
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csproj.CopyComplete
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.exe
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.pdb
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.SistemaUsuario.resources
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.CambiarClave.resources
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ListarMascotas.resources
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ListarReservas.resources
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ModificarMascota.resources
+C:\Users\Martina Kozelnik\Desktop\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ModificarReservas.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\EjemploCapa.exe.config
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\EjemploCapa.exe
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\EjemploCapa.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\app.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Enti.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Serv.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Repo.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\context.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\app.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Enti.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Serv.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\Repo.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\context.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csprojAssemblyReference.cache
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.CambiarClave.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.IniciarSesion.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ListarMascotas.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ListarReservas.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ListarServicios.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ModificarMascota.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.ModificarReservas.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.Properties.Resources.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.Registrarse.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.SistemaUsuario.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.Veterinaria.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csproj.GenerateResource.cache
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csproj.CoreCompileInputs.cache
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.csproj.CopyComplete
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.exe
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.pdb
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\bin\Debug\zu-ZA\EjemploCapa.resources.dll
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\EjemploCapa.Veterinaria.zu-ZA.resources
+D:\Valentina\Descargas\Veterinaria\Veterinaria (ponele)\ejemplo - Copy\ejemplo - Copy\EjemploCapa\obj\Debug\zu-ZA\EjemploCapa.resources.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\EjemploCapa.exe.config
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\EjemploCapa.exe
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\EjemploCapa.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\zu-ZA\EjemploCapa.resources.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\app.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\Enti.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\Serv.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\Repo.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\context.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\app.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\Enti.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\Serv.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\Repo.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\bin\Debug\context.pdb
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.CambiarClave.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.IniciarSesion.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.ListarMascotas.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.ListarReservas.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.ListarServicios.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.ModificarMascota.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.ModificarReservas.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.Properties.Resources.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.Registrarse.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.SistemaUsuario.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.Veterinaria.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.Veterinaria.zu-ZA.resources
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\zu-ZA\EjemploCapa.resources.dll
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.csproj.CopyComplete
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.exe
+C:\Users\valen\Desktop\Veterinaria\Veterinaria\EjemploCapa\obj\Debug\EjemploCapa.pdb
